@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: ;
+    box-sizing: border-box;
+
+}
+header .container{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    color: #fff;
+    justify-content: space-between;
+    background-color: #182c61;
+
+}
+
+.container a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.container li{
+    display: inline;
+    margin-left: 16px;
+}
